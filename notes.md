@@ -1,0 +1,1 @@
+An escape sequence like \n provides a general and extensible mechanism for representing hard-to-type or invisible characters. Among the others that C provides are \t for tab, \b for backspace, \" for the double quote and \\ for the backslash itself. There is a complete list in Section 2.3
